@@ -1,0 +1,48 @@
+h1 {
+  text-transform: uppercase;
+  text-align: center;
+  color: #f1f081;
+  text-shadow: 2px 2px 5px black;
+}
+body {
+  background-image: url(images/pozadina1.jpg);
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: 100% 100%;
+}
+img {
+  width: 200px;
+  height: 200px;
+  border-radius: 50%;
+  border-style: solid;
+  border-color: #f1f081;
+}
+#meny {
+  text-align: center;
+}
+#meny a {
+  background-color: yellow;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 18px;
+  padding: 1% 4% 1% 4%;
+}
+#meny a:hover {
+  background-color: #560908;
+  color: #f1f081;
+}
+#footer {
+  text-align: center;
+  color: yellow;
+  background-color: red;
+  padding: 1% 0 1% 0;
+  width: 100%;
+  font-size: 20px;
+  bottom: 0;
+  position: fixed;
+  margin: 0;
+}
+#sekcija1 {
+  margin-top: 2%;
+  text-align: center;
+}

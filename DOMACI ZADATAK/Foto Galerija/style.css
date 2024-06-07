@@ -1,0 +1,60 @@
+body {
+  background-color: #afd1fc;
+  margin: 0;
+}
+h1 {
+  color: #1c57a4;
+  margin-left: 2%;
+}
+#meny {
+  background-color: #1c57a4;
+  width: 100%;
+  padding: 1% 0 1% 0;
+}
+#meny a {
+  text-decoration: none;
+  color: white;
+  font-size: 20px;
+  padding: 1% 0 1% 1%;
+}
+.levo {
+  border-right: solid 1px white;
+  padding: 1%;
+}
+.levo:hover {
+  background-color: #7faadf;
+  color: #1c57a4;
+}
+#desno {
+  float: right;
+  padding: 1%;
+  margin-right: 1%;
+}
+#tekst {
+  background-color: #1c57a4;
+  color: white;
+  height: 120px;
+  width: 640px;
+  margin: 0 0 1% 0;
+  padding: 0;
+  overflow: auto;
+}
+#galerija {
+  height: 640px;
+  width: 640px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 2%;
+}
+img {
+  padding: 0;
+  margin: 0;
+}
+#velika {
+  height: 480px;
+  width: 640px;
+}
+.mala {
+  height: 40px;
+  width: 76px;
+}
